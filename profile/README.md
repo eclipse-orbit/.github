@@ -19,9 +19,19 @@ The Eclipse Orbit repository provides recipes for building OSGi bundles using EB
 
 # Eclipse Orbit SimRel
 
-The Eclipse Orbit SimRel provides infrastructure for managing 3rd party dependencies based directly on libraries hosted at Maven Central:
+The Eclipse Orbit SimRel repository provides infrastructure for managing 3rd party dependencies based directly on libraries hosted at Maven Central:
 
 - https://github.com/eclipse-orbit/orbit-simrel
 - https://github.com/eclipse-orbit/orbit-simrel#readme
 - https://github.com/eclipse-orbit/orbit-simrel/issues
 - https://github.com/eclipse-orbit/orbit-simrel/discussions
+
+# Eclipse Orbit Legacy
+
+The Eclipse Orbit Legacy repository provides 3rd party dependencies directly as source bundles. 
+This is primarily for the case of libraries for which there is no source hosted at Maven Central:
+
+- https://github.com/eclipse-orbit/orbit-legacy
+- https://github.com/eclipse-orbit/orbit-legacy#readme
+- https://github.com/eclipse-orbit/orbit-legacy/issues
+- https://github.com/eclipse-orbit/orbit-legacy/discussions
