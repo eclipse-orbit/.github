@@ -9,7 +9,7 @@ Orbit's primary update site is the following:
 
 The `orbit-aggregation` update site, as the name suggests, is an aggregtion of the following sites:
 
-- https://download.eclipse.org/tools/orbit/simrel/orbit-legacy/
+- https://download.eclipse.org/tools/orbit/simrel/maven-bnd/
 - https://download.eclipse.org/tools/orbit/simrel/maven-osgi/
 - https://download.eclipse.org/tools/orbit/simrel/maven-sign/
 - https://download.eclipse.org/tools/orbit/simrel/orbit-legacy
