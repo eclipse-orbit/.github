@@ -1,4 +1,4 @@
-<img src="https://github.com/eclipse-orbit/.github/blob/main/assets/artwork/svg/Orbit-Color.svg" width="10%">
+<img src="../assets/artwork/svg/Orbit-Color.svg" width="10%">
 
 The Eclipse Orbit project provides bundled versions of third-party libraries that are approved for reuse in one or more Eclipse projects.
 
